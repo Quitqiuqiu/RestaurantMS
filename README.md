@@ -1,10 +1,10 @@
 # 餐厅管理系统
 
 ## 项目简介
-餐厅管理系统是一个基于 Java Web 技术开发的应用，旨在帮助学校管理员和注册用户管理教师信息。系统实现了用户登录、注册、个人信息管理、菜品信息查询与管理等功能。
+餐厅管理系统是一个基于 Java Web 技术开发的应用，旨在帮助餐厅管理员和注册用户管理菜品信息。系统实现了用户登录、注册、个人信息管理、菜品信息查询与管理等功能。
 
 ## 技术栈
-- **前端**: CSS3 (Bootstrap 5), JavaScript, JSP + JSTL
+- **前端**: CSS3 (Bootstrap 5, Font Awesome 6), JavaScript, JSP + JSTL
 
 - **后端**: Java Servlet, JavaBeans, DAO (Data Access Object) 模式
   
